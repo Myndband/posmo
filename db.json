@@ -1,0 +1,61 @@
+{
+  "ma": [
+    {
+      "id": 1,
+      "ma_title": "XYZ",
+      "profile_img": "string",
+      "updated_by": "string",
+      "last_modified_date": "2023-01-19 09:32:31.015149",
+      "total_field_count": 17,
+      "total_count": 18,
+      "purpose": "string",
+      "vision": "string",
+      "mission": "string",
+      "customer": "string",
+      "differentiator": "string",
+      "dna_name": "DNA",
+      "position_statement": "string",
+      "value_proposition": "string",
+      "key_message": "string",
+      "elevator_story_update": false,
+      "elevator_story": "string",
+      "tagline": "string",
+      "positioning_count": 11,
+      "positioning_total_fields": 11,
+      "primary_archetype": "string",
+      "secondary_archetype": "string",
+      "attributes": "string",
+      "personality": "string",
+      "brand_driver": "string",
+      "voice": "string",
+      "memes": "string",
+      "narrative": "string",
+      "branding_count": 6,
+      "branding_total_fields": 7
+    }
+  ],
+  "posmolyzer": [
+    {
+      "id": 1,
+      "content": "helllow nikhil dtfyuiopojhgfdszfghjsdfbvnds",
+      "audit_id": 1,
+      "mapped_keywords": "{'marketers': 2, 'help': 1, 'positioning': 5, 'companies': 4, 'marketer': 2, 'framework': 1, 'building': 1, 'core': 1, 'build': 2, 'heroes': 1, 'get to aha': 1, 'hero': 1}",
+      "mapped_keywords_count": 22,
+      "unmapped_keywords": "['win through hacking the human condition', 'around gtmp', 'go to market positioning framework', 'help', 'people', 'get2aha', 'building', 'expert', 'we do this with you, not for you', 'brings innovation to market', 'increase value for companies and people', 'get to aha', 'community', 'marketers', 'make heroes out of marketers', 'dna', 'framework', 'marketing', 'core', 'core dna matters', 'gtmp', 'go to market positioning', 'experts', 'optimum', 'proprietary', 'optimal', 'optimum gtmp', 'were here to help our community win', 'comprehensive', 'hacking', 'the go to market positioning framework: A proprietary and comprehensive framework for optimum gtmp strategy and messaging devlopment', 'companies', 'marketer', 'go to market', 'positioning', 'messaging development', 'win', 'bringing innovation to market', 'business thought leaders', 'the go to market positioning expert', 'increase value', 'strategy', 'ecosystem', 'matters', 'bring innovation to market', 'build', 'heroes', 'human condition', 'build an ecosystem of companies and communities centered around gtmp', 'hero', 'communities', 'message development', 'brought to innovation to market', 'the go to market positioning experts']",
+      "unmapped_keywords_count": 54,
+      "processed_words_count": 66,
+      "result": 21
+    },
+    {
+      "id": 2,
+      "content": "fvghjkl;/vcvdfbdgnhjk.l/;lkjgh",
+      "audit_id": "",
+      "mapped_keywords": "",
+      "mapped_keywords_count": "",
+      "unmapped_keywords": "",
+      "unmapped_keywords_count": "",
+      "processed_words_count": "",
+      "result": ""
+    }
+  ]
+}
